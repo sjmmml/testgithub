@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 # Mesh 1 → 4 
 
 - NSIZE:64
@@ -8,8 +6,6 @@
 
 ![](./img/Rplot01.png)
 
-
-\\(\sin{x}\\)
 
 Mesh が2以上の場合計算できなかった原因修正
 
